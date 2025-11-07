@@ -1,14 +1,14 @@
 {
   "name": "about-me-api-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "About Me API for Murendeni Ramavhale",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ramavhale Murendeni",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
