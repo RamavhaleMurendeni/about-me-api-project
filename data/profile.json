@@ -1,0 +1,86 @@
+{
+  "profile": {
+    "name": "Murendeni Ramavhale",
+    "title": "Back-End Developer",
+    "summary": "Results-oriented IT professional transitioning into a specialised Back-End Developer role. With one year of system development experience at Mindworx, complemented by hands-on roles in security analysis and IT support, I possess a unique, holistic understanding of how software interacts with hardware, networks, and security protocols.",
+    "contact": {
+      "linkedin": "https://linkedin.com/in/murendeni-ramavhale",
+      "location": "South Africa",
+      "basedIn": "TMA, Ramavhale Murendeni Documents"
+    },
+    "languages": ["Java", "JavaScript", "Python", "C#", "C++"],
+    "frameworks": [".NET", "Node.js", "Express"],
+    "databases": ["SQL", "Relational Databases"],
+    "tools": ["Git", "GitHub", "Postman", "Azure"]
+  },
+  "experience": [
+    {
+      "position": "IT Technician",
+      "company": "OMT (Open Mind Technology)",
+      "period": "Nov 2024 - Feb 2024",
+      "responsibilities": [
+        "Provided on-site and remote technical support to ensure smooth operation",
+        "Trained staff on new technologies and software applications",
+        "Implemented and maintained IT policies and procedures",
+        "Provided troubleshooting, repair, and maintenance for computer hardware and software"
+      ]
+    },
+    {
+      "position": "System Development",
+      "company": "Mindworx",
+      "period": "June 2023 - Dec 2024",
+      "responsibilities": [
+        "Database Management: Designed, implemented, and maintained relational databases",
+        "Requirements Analysis: Collaborated with clients to translate business needs into technical requirements",
+        "Quality Assurance & Testing: Systematically tested, debugged, and refactored source code",
+        "Value-Driven Solutioning: Developed features that enhanced operational efficiency"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Sciences in Business Information Systems (BIS Hons)",
+      "institution": "University of Venda",
+      "period": "2023 - 2024"
+    },
+    {
+      "degree": "Bachelor of Sciences in Computer Sciences",
+      "institution": "University of Venda",
+      "period": "2016 - 2021"
+    },
+    {
+      "degree": "Software Engineer Training",
+      "institution": "tma.Academy skill programme",
+      "period": "Sept 2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA Security+",
+      "year": "2023"
+    },
+    {
+      "name": "AZ-500 Azure Security Engineer Associate",
+      "year": "2025"
+    },
+    {
+      "name": "SC-200 Security Operations Analyst Associate",
+      "year": "2025"
+    }
+  ],
+  "technicalSkills": {
+    "programmingLanguages": ["Java", "JavaScript", "Python", "C#", "C++"],
+    "webTechnologies": ["HTML", "CSS", "SCSS", "SASS"],
+    "databases": ["SQL"],
+    "tools": ["Git", "GitHub", ".NET"],
+    "frameworks": ["Node.js", "Express"]
+  },
+  "softSkills": [
+    "Ability to synthesize and understand complex content",
+    "Problem-solving tools and experience",
+    "Advanced research methods/skills",
+    "Ability to make decisions consistently about abstract information",
+    "Ability to exercise good judgment",
+    "Self-disciplined, Hard worker, Responsible and dependable"
+  ]
+}
