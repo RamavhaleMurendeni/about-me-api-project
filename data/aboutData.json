@@ -1,0 +1,28 @@
+{
+  "summary": "Full-stack developer passionate about creating efficient web applications",
+  "languages": ["JavaScript", "Python", "Java"],
+  "frameworks": ["Node.js", "Express", "React", "Vue.js"],
+  "certifications": ["AWS Certified Developer", "Google Cloud Associate"],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "university": "Tech University",
+      "year": 2020
+    }
+  ],
+  "experience": [
+    {
+      "position": "Senior Developer",
+      "company": "Tech Corp",
+      "duration": "2021-Present",
+      "responsibilities": ["API Development", "System Architecture"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Full-stack e-commerce solution",
+      "technologies": ["Node.js", "React", "MongoDB"]
+    }
+  ]
+}
